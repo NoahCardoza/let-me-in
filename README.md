@@ -4,11 +4,11 @@ A Chrome extensions which automatically clears cookies from specified sites to
 allow access to content which would otherwise be limited by the content provider
 based on session cookies and other means of tracking.
 
-# Examples
+# Examples Hosts
 
-+ medium.com
-+ www.slader.com
-+ coursehero.com
++ [medium.com](https://medium.com)
++ [www.slader.com](https://www.slader.com)
++ [coursehero.com](https://coursehero.com)
 + And many more...
 
 ## Road Map (Priority – <span style="color: #F74626;">Low</span>)
