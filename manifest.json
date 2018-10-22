@@ -1,0 +1,11 @@
+{
+  "name": "Let Me In",
+  "version": "1.0.0",
+  "background": { "scripts": ["background.js"] },
+  "permissions": [
+    "*://*/*",
+    "cookies",
+    "webNavigation"
+  ],
+  "manifest_version": 2
+}
